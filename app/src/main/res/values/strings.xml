@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JitPack</string>
+    <string name="app_title">使用jitPack发布的Android开源库\n--zxing二维码扫描</string>
+    <string name="app_button1">点击扫描二维码</string>
+    <string name="app_button2">点击生成二维码</string>
+    <string name="app_button3">点击生成二维码(logo)</string>
+    <string name="app_button4">点击识别二维码</string>
+</resources>
